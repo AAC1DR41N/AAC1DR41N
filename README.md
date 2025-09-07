@@ -5,11 +5,11 @@
 I’m a 16 year old coder with a love for **reverse engineering, assembly, and C++**. 
 I looooove coding and working on new projects and I’m always opent to learn new ways to level up my skills.  
 
-Outside of coding, you’ll often find me exploring:  
-- 🎮 Gaming
-- 📺 Anime & Manga 
-- 🎵 Music 
-- 🐱 Chilling with my cat (He's a silly goober >:3c) 
+Outside of coding, you’ll often find me exploring things like:  
+-  Gaming
+-  Anime & Manga 
+-  Music 
+-  Chilling with my cat (He's a silly goober >:3c) 
 
 I like to keep my projects **friendly, approachable, and open** — whether it’s small experiments or full-fledged projects.
 
