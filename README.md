@@ -2,7 +2,7 @@
 
 **Pronouns:** he/she
 
-I’m a 16 year old coder with a love for **reverse engineering, assembly, and C++**. 
+I’m a 16 year old coder with a love for **reverse engineering, assembly, C++ and Gentoo Linux!!**. 
 I looooove coding and working on new projects and I’m always open to learn new ways to level up my skills.  
 
 Outside of coding, you’ll often find me exploring things like:  
