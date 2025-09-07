@@ -20,6 +20,12 @@ I like to keep my projects **friendly, approachable, and open** â€” whether itâ€
 - Reverse engineering copy protections
 - Working on my Gentoo setup 
 
+### Current Languages
+- Assembly
+- C++
+- Java
+- JavaScript
+
 ### Connect with me
 Feel free to open an issue, drop a comment, or reach out via social links
 
