@@ -3,7 +3,7 @@
 **Pronouns:** he/she
 
 I’m a 16 year old coder with a love for **reverse engineering, assembly, and C++**. 
-I looooove coding and working on new projects and I’m always opent to learn new ways to level up my skills.  
+I looooove coding and working on new projects and I’m always open to learn new ways to level up my skills.  
 
 Outside of coding, you’ll often find me exploring things like:  
 -  Gaming
@@ -18,7 +18,7 @@ I like to keep my projects **friendly, approachable, and open** — whether it�
 ### Current Focus
 - Working on stuff in C++  
 - Reverse engineering copy protections
-- Working on my Gentoo setupd 
+- Working on my Gentoo setup 
 
 ### Connect with me
 Feel free to open an issue, drop a comment, or reach out via social links
