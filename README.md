@@ -1,4 +1,4 @@
-# Heya!  I'm AC1DR41N
+# Heya!  I'm YvKi/AC1DR41N
 
 **Pronouns:** he/she
 
@@ -18,7 +18,8 @@ I like to keep my projects **friendly, approachable, and open** â€” whether itâ€
 ### Current Focus
 - Working on stuff in C++  
 - Reverse engineering copy protections
-- Working on my Gentoo setup 
+- Working on my Gentoo setup
+- First LFS build (Might be published here)
 
 ### Current Languages
 - Assembly
