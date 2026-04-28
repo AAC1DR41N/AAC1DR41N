@@ -24,7 +24,7 @@ I like to keep my projects **friendly, approachable, and open** â€” whether itâ€
 ### Current Languages
 - Assembly
 - C++
-- Java
+- Bash
 - JavaScript
 
 ### Connect with me
